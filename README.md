@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile Views](https://hit.yhype.me/github/profile?user_id=12225152)
+![](https://hit.yhype.me/github/profile?user_id=12225152)
 <!--
 **meetKazuki/meetKazuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
